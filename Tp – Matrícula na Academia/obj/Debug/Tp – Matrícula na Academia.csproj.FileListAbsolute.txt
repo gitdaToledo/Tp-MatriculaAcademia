@@ -8,3 +8,13 @@ C:\Users\aluno\Downloads\Tp – Matrícula na Academia\Tp – Matrícula na Acad
 C:\Users\aluno\Downloads\Tp – Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.CoreCompileInputs.cache
 C:\Users\aluno\Downloads\Tp – Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.exe
 C:\Users\aluno\Downloads\Tp – Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.pdb
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\bin\Debug\Tp – Matrícula na Academia.exe.config
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\bin\Debug\Tp – Matrícula na Academia.exe
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\bin\Debug\Tp – Matrícula na Academia.pdb
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.AssemblyReference.cache
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp___Matrícula_na_Academia.Form1.resources
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp___Matrícula_na_Academia.Properties.Resources.resources
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.GenerateResource.cache
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.CoreCompileInputs.cache
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.exe
+C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.pdb
