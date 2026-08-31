@@ -18,3 +18,13 @@ C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\
 C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.CoreCompileInputs.cache
 C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.exe
 C:\Users\Isaavs\source\repos\Tp-MatriculaAcademia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.pdb
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\bin\Debug\Tp – Matrícula na Academia.exe.config
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\bin\Debug\Tp – Matrícula na Academia.exe
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\bin\Debug\Tp – Matrícula na Academia.pdb
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.AssemblyReference.cache
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp___Matrícula_na_Academia.Form1.resources
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp___Matrícula_na_Academia.Properties.Resources.resources
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.GenerateResource.cache
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.csproj.CoreCompileInputs.cache
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.exe
+C:\Projetos C#\Tp - Matrícula na Academia\Tp – Matrícula na Academia\obj\Debug\Tp – Matrícula na Academia.pdb
